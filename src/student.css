@@ -1,0 +1,23 @@
+table {
+    border: 1px solid;
+    width: 70%;
+    margin:30px auto;
+    color: rgb(226, 143, 9);
+  }
+  
+  th {
+    border: 1px solid;
+    height: 70px;
+    width: 30px;
+    
+  }
+  td{
+    border: 1px solid;
+    width: 30%;
+    height: 40px;
+    text-align: center;
+  }
+  h1{
+      text-align: center;
+      color: white;
+  }
